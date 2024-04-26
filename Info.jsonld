@@ -52,36 +52,17 @@
   },
   "body": {
     "abstract": {
-      "@value": "abstract"
+      "@value": "asdf"
     },
     "motivation": {
-      "@value": "motivation"
+      "@value": "asdf"
     },
     "rationale": {
-      "@value": "rationale"
+      "@value": "asdf"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://www.loom.com/"
-        }
-      },
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://www.loom.com/"
-        }
-      }
-    ],
+    "references": [],
     "title": {
-      "@value": "title"
+      "@value": "asdf"
     }
   }
 }
