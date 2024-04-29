@@ -52,25 +52,15 @@
   },
   "body": {
     "abstract": {
-      "@value": "asfd"
+      "@value": "asdf"
     },
     "motivation": {
       "@value": "asdf"
     },
     "rationale": {
-      "@value": "asdf"
+      "@value": "asfd"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "http://microsoft.com"
-        }
-      }
-    ],
+    "references": [],
     "title": {
       "@value": "asdf"
     }
