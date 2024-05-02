@@ -27,9 +27,7 @@
         "title": "CIP108:title",
         "abstract": "CIP108:abstract",
         "motivation": "CIP108:motivation",
-        "rationale": "CIP108:rationale",
-        "amount": "CIP108:amount",
-        "receivingAddress": "CIP108:receivingAddress"
+        "rationale": "CIP108:rationale"
       }
     },
     "authors": {
@@ -54,23 +52,17 @@
   },
   "body": {
     "abstract": {
-      "@value": "sdfg"
-    },
-    "amount": {
-      "@value": "100"
+      "@value": "Go for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo f"
     },
     "motivation": {
-      "@value": "sdfg"
+      "@value": "Go for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo f"
     },
     "rationale": {
-      "@value": "sdfg"
-    },
-    "receivingAddress": {
-      "@value": "sdfg"
+      "@value": "Go for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo for the moneyGo f"
     },
     "references": [],
     "title": {
-      "@value": "sdfg"
+      "@value": "Go for the money"
     }
   }
 }
