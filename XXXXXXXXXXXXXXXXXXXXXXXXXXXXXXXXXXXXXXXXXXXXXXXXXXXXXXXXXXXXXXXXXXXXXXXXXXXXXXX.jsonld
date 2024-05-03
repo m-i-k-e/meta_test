@@ -51,33 +51,14 @@
   },
   "body": {
     "bio": {
-      "@value": "jalskdjf aksjdfl kajsl;dkfj a;lskdfj al;skdjf ;lkasd f;lkasjd ;fl"
+      "@value": "asdf"
     },
     "dRepName": {
       "@value": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
     },
     "email": {
-      "@value": "mike.susko@intersectmbo.org"
+      "@value": "XXXXXXXXXXXXXXXXXX@XXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://microsoft.com"
-        }
-      },
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://microsoft.com"
-        }
-      }
-    ]
+    "references": []
   }
 }
