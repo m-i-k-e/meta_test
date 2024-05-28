@@ -51,13 +51,13 @@
   },
   "body": {
     "bio": {
-      "@value": "\""
+      "@value": ""
     },
     "dRepName": {
       "@value": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
     },
     "email": {
-      "@value": "asdf@dasf.asdf"
+      "@value": ""
     },
     "references": []
   }
