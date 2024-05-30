@@ -52,17 +52,27 @@
   },
   "body": {
     "abstract": {
-      "@value": "asdf"
+      "@value": "Mike Mike Mike"
     },
     "motivation": {
-      "@value": "asdf"
+      "@value": "Mike Mike Mike"
     },
     "rationale": {
-      "@value": "asfd"
+      "@value": "Mike Mike Mike"
     },
-    "references": [],
+    "references": [
+      {
+        "@type": "Other",
+        "CIP108:reference-label": {
+          "@value": "Label"
+        },
+        "CIP108:reference-uri": {
+          "@value": "http://microsoft.com"
+        }
+      }
+    ],
     "title": {
-      "@value": "asdf"
+      "@value": "Mike Mike Mike"
     }
   }
 }
