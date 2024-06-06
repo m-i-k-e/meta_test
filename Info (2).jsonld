@@ -52,13 +52,13 @@
   },
   "body": {
     "abstract": {
-      "@value": "abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS T"
+      "@value": "A super awesome Info action to stop all future Info actions, right? A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?"
     },
     "motivation": {
-      "@value": "abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS T"
+      "@value": "A super awesome Info action to stop all future Info actions, right? A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?"
     },
     "rationale": {
-      "@value": "abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS T"
+      "@value": "A super awesome Info action to stop all future Info actions, right? A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?A super awesome Info action to stop all future Info actions, right?"
     },
     "references": [
       {
@@ -67,12 +67,12 @@
           "@value": "Label"
         },
         "CIP108:reference-uri": {
-          "@value": "http://microsoft.com"
+          "@value": "microsoft.com"
         }
       }
     ],
     "title": {
-      "@value": "abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV W"
+      "@value": "A super awesome Info action to stop all future Info actions, right?"
     }
   }
 }
