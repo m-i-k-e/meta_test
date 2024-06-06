@@ -52,17 +52,27 @@
   },
   "body": {
     "abstract": {
-      "@value": "asdf"
+      "@value": "asldkfjalskdjf lk"
     },
     "motivation": {
-      "@value": "asdf"
+      "@value": "sadklfasdlfkj"
     },
     "rationale": {
-      "@value": "a"
+      "@value": "asjldfkajsld;kfj"
     },
-    "references": [],
+    "references": [
+      {
+        "@type": "Other",
+        "CIP108:reference-label": {
+          "@value": "Label"
+        },
+        "CIP108:reference-uri": {
+          "@value": "asdf.com"
+        }
+      }
+    ],
     "title": {
-      "@value": "asdf"
+      "@value": "my action"
     }
   }
 }
