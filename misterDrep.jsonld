@@ -51,14 +51,24 @@
   },
   "body": {
     "bio": {
-      "@value": ""
+      "@value": "\"Living in the world of blocks and chains, spreading inspiration one blockchain at a time. 🌟 #BlockchainNerd #InspireChange"
     },
     "dRepName": {
       "@value": "misterDrep"
     },
     "email": {
-      "@value": ""
+      "@value": "asdf@dasf.asdf"
     },
-    "references": []
+    "references": [
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "http://microsoft.com"
+        }
+      }
+    ]
   }
 }
