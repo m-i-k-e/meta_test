@@ -52,27 +52,27 @@
   },
   "body": {
     "abstract": {
-      "@value": "asldkfjalskdjf lk"
+      "@value": "test"
     },
     "motivation": {
-      "@value": "sadklfasdlfkj"
+      "@value": "test"
     },
     "rationale": {
-      "@value": "asjldfkajsld;kfj"
+      "@value": "test"
     },
     "references": [
       {
         "@type": "Other",
-        "CIP108:reference-label": {
+        "label": {
           "@value": "Label"
         },
-        "CIP108:reference-uri": {
-          "@value": "asdf.com"
+        "uri": {
+          "@value": "https://test.com"
         }
       }
     ],
     "title": {
-      "@value": "my action"
+      "@value": "test"
     }
   }
 }
