@@ -52,27 +52,27 @@
   },
   "body": {
     "abstract": {
-      "@value": "my info actionmy info actionmy info actionmy info actionmy info action"
+      "@value": "asdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj al"
     },
     "motivation": {
-      "@value": "my info actionmy info actionmy info actionmy info actionmy info action"
+      "@value": "asdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj al"
     },
     "rationale": {
-      "@value": "my info actionmy info actionmy info actionmy info action"
+      "@value": "asdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj alasdlfkjasldkfj al"
     },
     "references": [
       {
         "@type": "Other",
-        "CIP108:reference-label": {
+        "label": {
           "@value": "Label"
         },
-        "CIP108:reference-uri": {
-          "@value": "http://microsoft.com"
+        "uri": {
+          "@value": "microsoft.com"
         }
       }
     ],
     "title": {
-      "@value": "my info action"
+      "@value": "The Info"
     }
   }
 }
