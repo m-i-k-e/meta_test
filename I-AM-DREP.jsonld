@@ -1,6 +1,5 @@
 {
   "@context": {
-    "@language": "en-us",
     "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
     "CIPQQQ": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-QQQ/README.md#",
     "hashAlgorithm": "CIP100:hashAlgorithm",
@@ -46,19 +45,11 @@
     }
   },
   "authors": [],
-  "hashAlgorithm": {
-    "@value": "blake2b-256"
-  },
+  "hashAlgorithm": "blake2b-256",
   "body": {
-    "bio": {
-      "@value": ""
-    },
-    "dRepName": {
-      "@value": "I-AM-DREP"
-    },
-    "email": {
-      "@value": ""
-    },
+    "bio": "",
+    "dRepName": "I-AM-DREP",
+    "email": "",
     "references": []
   }
 }
