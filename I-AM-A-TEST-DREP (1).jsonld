@@ -1,5 +1,6 @@
 {
   "@context": {
+    "@language": "en-us",
     "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
     "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
     "hashAlgorithm": "CIP100:hashAlgorithm",
@@ -51,29 +52,26 @@
     }
   },
   "authors": [],
-  "hashAlgorithm": "blake2b-256",
+  "hashAlgorithm": {
+    "@value": "blake2b-256"
+  },
   "body": {
-    "givenName": "I-AM-A-TEST-DREP",
-    "motivations": "Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test ",
-    "objectives": "Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test ",
-    "paymentAddress": "addr_test1qr4v3aft3x7f7w5uaz33pm8apf28g3dugq364wt7nqpwv5p2mvrft99cqh2aymvw97df24vtk8pq6uq6y2e0rl8hey5q3qzrcv",
-    "qualifications": "Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test ",
-    "references": [
-      {
-        "@type": "Link",
-        "label": "aß@@@@&&&$$$*",
-        "uri": "www.internet.org"
-      },
-      {
-        "@type": "Identity",
-        "label": "It's not really me",
-        "uri": "microsoft.com"
-      },
-      {
-        "@type": "Identity",
-        "label": "I am not a DREP",
-        "uri": "believe.me"
-      }
-    ]
+    "doNotList": false,
+    "givenName": {
+      "@value": "I-AM-A-TEST-DREP-Man"
+    },
+    "motivations": {
+      "@value": ""
+    },
+    "objectives": {
+      "@value": ""
+    },
+    "paymentAddress": {
+      "@value": ""
+    },
+    "qualifications": {
+      "@value": ""
+    },
+    "references": []
   }
 }
