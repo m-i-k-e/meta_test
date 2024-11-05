@@ -48,10 +48,10 @@
   "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "abstract": "info test",
-    "motivation": "info test",
-    "rationale": "info test",
+    "abstract": "proposal 1",
+    "motivation": "proposal 1",
+    "rationale": "proposal 1",
     "references": [],
-    "title": "info test"
+    "title": "proposal 1"
   }
 }
