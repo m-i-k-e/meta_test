@@ -48,10 +48,10 @@
   "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "abstract": "mike's proposal",
-    "motivation": "mike's proposal",
-    "rationale": "mike's proposal",
+    "abstract": "a new proposal",
+    "motivation": "a new proposal",
+    "rationale": "a new proposal",
     "references": [],
-    "title": "mike's proposal"
+    "title": "a new proposal"
   }
 }
