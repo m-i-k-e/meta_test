@@ -48,16 +48,10 @@
   "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "abstract": "Mike's Super Info Action",
-    "motivation": "Mike's Super Info Action",
-    "rationale": "Mike's Super Info Action",
-    "references": [
-      {
-        "@type": "Other",
-        "label": "mikerosoft",
-        "uri": "microsoft.com"
-      }
-    ],
-    "title": "Mike's Super Info Action"
+    "abstract": "This is really abstract",
+    "motivation": "This is really motivated",
+    "rationale": "This is really rational",
+    "references": [],
+    "title": "asdf"
   }
 }
