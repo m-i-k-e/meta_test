@@ -63,7 +63,7 @@
     "givenName": "I-AM-A-TEST-DREPX",
     "image": {
       "@type": "ImageObject",
-      "contentUrl": "https://raw.githubusercontent.com/m-i-k-e/meta_test/refs/heads/main/goat.jsonld",
+      "contentUrl": "https://raw.githubusercontent.com/m-i-k-e/meta_test/refs/heads/main/goat.jsonld.not",
       "sha256": "dff8bb2cd464cf147bb61b324578f1a2f569559138bb541d1af8f19214136326"
     }
   }
