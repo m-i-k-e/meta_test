@@ -1,6 +1,7 @@
- <img id="picture" src="https://avatars.githubusercontent.com/u/815736" onload="
-    setInterval(() => {
-        document.body.style.backgroundColor = 
-            '#' + Math.floor(Math.random()*16777215).toString(16);
-    }, 1000);
-">
+https://avatars.githubusercontent.com/u/815736
+//<img id="picture" src="https://avatars.githubusercontent.com/u/815736" onload="
+ //   setInterval(() => {
+//        document.body.style.backgroundColor = 
+//            '#' + Math.floor(Math.random()*16777215).toString(16);
+//    }, 1000);
+// ">
