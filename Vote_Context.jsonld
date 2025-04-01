@@ -48,9 +48,8 @@
       }
     }
   },
-  "authors": [],
   "body": {
-    "comment": "sdf asdf asdf asdf asdf asdf asdf asdf "
+    "comment": "Here's a lot of context"
   },
   "hashAlgorithm": "blake2b-256"
 }
